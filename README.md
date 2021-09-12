@@ -16,4 +16,4 @@ Design
 Control Voltage versus frequency 
 ![11_Stage_VCO_Frequency_vs_voltage](https://user-images.githubusercontent.com/51846122/132983661-e2eac123-5542-4da2-afa7-36560616460d.PNG)
 
-Here , control voltage is varied from 500mV to 1V (X- axis), corresponding Frequencies are plotted on Y-axis. We can observer from 500mV to 750mV , we have linear dependence between frequency and applied control voltage. 
+Here , control voltage is sweeped from 500mV to 1V (X- axis), corresponding Frequencies are plotted on Y-axis. We can observer from 500mV to 750mV , we have linear dependence between frequency and applied control voltage. 
