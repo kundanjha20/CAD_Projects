@@ -1,0 +1,2 @@
+SOFTINCLUDE /opt/Cadence/IC617/share/cdssetup/cds.lib
+DEFINE VCO /home/IC/Cadence_Work/VCO/VCO

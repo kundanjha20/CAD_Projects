@@ -1,0 +1,42 @@
+\o Program:		@(#)$CDS: libManager version 6.1.7 - CAT35 01/28/2016 23:41 (sjfnl179) $
+\o Sub version:		sub-version  IC6.1.7 - CAT35.15s004 
+\o Arguments:		-mpssession virtuoso5733 -mpshost IC 
+\o Working Directory:	IC:/home/IC/Cadence_Work/VCO
+\o 64-bit offsets
+\o Qt version: 		4.8.5
+\o Log file is "/home/IC/Cadence_Work/VCO/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(77 25 1033 601))
+\o changeWorkingDir("/home/IC/Cadence_Work/VCO") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a cdsLibManager->libListBox->value = "VCO"
+\a cdsLibManager->cellListBox->value = "VCO"
+\a cdsLibManager->cellLineEdit->value = "VCO"
+\a cdsLibManager->libLineEdit->value = "VCO"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 1 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->FileNewCVButton->value = t
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a exit(0)
